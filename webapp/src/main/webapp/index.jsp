@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Mark</h1>
+    <h1>New Shalom for DevOps Mark 1.1</h1>
     <p>Please fill in this form to send us Shalom.</p>
     <hr>
      
