@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Shalom for DevOps from Marko 1.7</h1>
+    <h1>New Shalom for DevOps from Marko 1.8</h1>
     <p>Please fill in this form to send us Shalom.</p>
     <hr>
      
